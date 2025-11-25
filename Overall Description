@@ -24,7 +24,7 @@ This allows users to understand demand patterns and focus on products that contr
 
 🌍 Geographic Insights
 
-Using Excel’s built-in map visualization, the dashboard breaks down performance by City,State/Province,Regional clusters
+Using Excel’s built-in map visualization, the dashboard breaks down performance by City and State regional clusters.
 This geographic insight helps businesses identify strong markets, underperforming regions, and potential areas for targeted marketing or inventory adjustments.
 
 📦 Customer & Order Trends
@@ -46,7 +46,7 @@ B. Category-wise Sales
 •	Chart Type: Bar Chart
 •	Purpose: To see which product categories and sub categories are the biggest revenue drivers.
 
-C. Profitability by Customer Segment
+C. Segment-wise Profits
 •	Chart Type: Donut Chart or Pie Chart
 •	Purpose: To compare the profitability contribution of different customer groups.
 
@@ -58,16 +58,12 @@ E. Performance of Retail Sales People
 •	Chart Type: Clustered Bar Chart 
 •	Purpose: Allows managers to compare sales reps not just on volume (Sales) but also on quality (Profit), encouraging profitable selling behavior.
 
-F. Return Volume by Category
-•	Chart Type: Bar Chart or Treemap.
-•	Purpose: Directly informs quality control and purchasing teams which product categories are causing the most logistics and profitability drain due to returns.
+F. Return Volume 
+•	Chart Type: Pie Chart
+•	Purpose: Shows overall distribution of the returned and not returned items.
 
-G.
-
-
-H.
-
-
+G.Top 10 Customers and Top 5 products by Sales:
+•	Purpose:Help quickly identify the highest revenue sources, enabling smarter decisions on sales focus, marketing, and inventory strategy.
 
 
 🛠️ Behind the Scenes: How It’s Built
